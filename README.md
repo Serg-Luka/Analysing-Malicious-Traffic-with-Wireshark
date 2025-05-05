@@ -33,10 +33,13 @@ To simulate a reverse shell attack from a Kali Linux attacker machine to a Windo
 
 ## 🛠️ Lab Setup Overview
 
-**Host:** Windows 10 PC running VMware Workstation<br>
-**Attacker VM:** Kali Linux VM<br>
-**Victim VM:** Windows 10 VM<br>
-**Networking Mode:** Host-Only (no internet access, local traffic only)<br>
+| Component | Description                  |
+|-----------|------------------------------|
+| 💻 Host   | Windows 10 with VMware Workstation |
+| 🐍 Attacker | Kali Linux VM                |
+| 🪟 Victim | Windows 10 VM                 |
+| 🌐 Network | Host-Only (no internet access, local traffic only)       |
+
 
 ## 🧱 Step-by-Step Lab Setup
 
