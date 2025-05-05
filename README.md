@@ -37,7 +37,7 @@ To simulate a reverse shell attack from a Kali Linux attacker machine to a Windo
 |-----------|------------------------------|
 | 💻 Host   | Windows 10 with VMware Workstation |
 | 🐍 Attacker | Kali Linux VM                |
-| 🪟 Victim | Windows 10 VM                 |
+| 🤕 Victim | Windows 10 VM                 |
 | 🌐 Network | Host-Only (no internet access, local traffic only)       |
 
 
