@@ -33,7 +33,7 @@ To simulate a reverse shell attack from a Kali Linux attacker machine to a Windo
 - [📅 16. Limitations and Next Steps](#-16-limitations-and-next-steps)
 
 <a id="lab-setup-overview"></a>
-## 🛠️ Lab Setup Overview {#lab-setup-overview}
+## 🛠️ Lab Setup Overview
 
 | Component | Description                  |
 |-----------|------------------------------|
